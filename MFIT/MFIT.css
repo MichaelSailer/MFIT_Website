@@ -27,14 +27,19 @@ h1{
 button{
     background-color: black;
     font-size: 25px;
-    color: azure;
+    color: #c7d6d5;
     text-align: center;
     align-content: center;
     margin: 0%;
+
 
 }
 div{
     height: 100%;
     width: 100%;
 
+}
+div.Image{
+
+    padding-top: 4%;
 }
